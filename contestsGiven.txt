@@ -1,0 +1,57 @@
+23rd may->
+https://leetcode.com/contest/weekly-contest-137/
+1) Longest Path in a DAG 
+.----- https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/ ----- used in ----- https://leetcode.com/contest/weekly-contest-137/problems/longest-string-chain/
+.----- https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/ ----- used in ----- https://leetcode.com/contest/weekly-contest-137/problems/last-stone-weight-ii/
+2) Finding path in large maze
+.Solution -----> https://leetcode.com/problems/escape-a-large-maze/ in file ./escapeALargeMaze
+24th may->
+https://leetcode.com/contest/weekly-contest-133/
+1)Question ->> https://leetcode.com/contest/weekly-contest-133/problems/stream-of-characters/
+	solution in file ./streamOfCharacters  ---> william fiset's tutorial on suffix array and Longest common prefix array\
+https://leetcode.com/contest/weekly-contest-132/
+1)Question ->> https://leetcode.com/contest/weekly-contest-132/problems/longest-arithmetic-sequence/
+	solution in file (for any array) ./longestArithmeticProgression --> GFG solution (for sorted array only) https://www.geeksforgeeks.org/longest-arithmetic-progression-dp-35/
+27th may->
+https://leetcode.com/contest/weekly-contest-126/
+1)Question ->> https://leetcode.com/contest/weekly-contest-126/problems/max-consecutive-ones-iii/ which is an easy version of https://leetcode.com/problems/longest-repeating-character-replacement/
+	solution in file ./slidingWindow/charachterReplacement
+28th may->
+https://leetcode.com/contest/weekly-contest-124
+1)Question ->> https://leetcode.com/contest/weekly-contest-124/problems/minimum-number-of-k-consecutive-bit-flips/ 
+	solution in file ./MinimumNumberofKConsecutiveBitFlips
+2)Question ->> https://leetcode.com/contest/weekly-contest-124/problems/number-of-squareful-arrays/
+	solution in file ./slidongWindow/numberOfSquarefulArrays
+https://leetcode.com/contest/weekly-contest-123/
+3)Question ->> https://leetcode.com/contest/weekly-contest-123/problems/broken-calculator/
+	solution in file ./brokenCalculator explaination at http://massivealgorithms.blogspot.com/2019/02/leetcode-991-broken-calculator.html
+4)Question ->> https://leetcode.com/contest/weekly-contest-123/problems/subarrays-with-k-different-integers/
+	solution in files ./slidingWindow/subarrays-with-k-different-integers2 based on https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/234482/JavaC%2B%2BPython-Sliding-Window-with-Video
+    and solution in files ./slidingWindow/subarrays-with-k-different-integers1 based on https://leetcode.com/submissions/detail/232001665
+	
+	some more questions on of sliding windows ->>
+		1. https://leetcode.com/problems/longest-substring-without-repeating-characters/
+		2. https://changhaz.wordpress.com/2014/11/26/leetcode-longest-substring-with-at-most-two-distinct-characters/
+		3. https://www.programcreek.com/2013/02/longest-substring-which-contains-2-unique-characters/
+https://leetcode.com/contest/weekly-contest-122 ->> complete LOL
+29th may->
+https://leetcode.com/contest/weekly-contest-121
+1)Question ->> https://leetcode.com/contest/weekly-contest-121/problems/triples-with-bitwise-and-equal-to-zero/
+	solution in file ./triples-with-bitwise-and-equal-to-zero
+2)Question ->> https://leetcode.com/contest/weekly-contest-121/problems/minimum-cost-for-tickets/
+	solution at https://leetcode.com/problems/minimum-cost-for-tickets/discuss/226659/Two-DP-solutions-with-pictures
+30 may->
+https://leetcode.com/contest/weekly-contest-119
+1)Question ->> https://leetcode.com/contest/weekly-contest-119/problems/subarray-sums-divisible-by-k/
+	solution in file ./subarray-sums-divisible-by-k
+2)Question ->>https://leetcode.com/contest/weekly-contest-119/problems/odd-even-jump/
+	BIG DOUBT!!!!
+31 may->
+https://leetcode.com/contest/weekly-contest-118
+1)Question ->> https://leetcode.com/contest/weekly-contest-118/problems/flip-binary-tree-to-match-preorder-traversal/
+	solution in file ./flip-binary-tree-to-match-preorder-traversal   
+1ST JUNE ->
+FACEBOOK ONSITE INTERVIEW EXPERIENCE-
+https://leetcode.com/discuss/interview-experience/301164/facebook-onsite-interview-experience-2019 
+solutions in ./facebookOnsiteInterview
+All questions done except one (which required premium access)
